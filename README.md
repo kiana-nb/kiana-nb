@@ -10,8 +10,7 @@
 🧡 Inquisitive by nature, I enjoy creating and designing. 
 
 🎡 The thrill of surfing for new and creative designs motivates me to broaden my knowledge <br/>
-and makes <br/>
-me eager to learn. 
+and makes me eager to learn. 
 Well, you could say my passion for knowledge and creativity drives me forward! 
 
 ⚓ So, basically, my goal is to collaborate with people as much as possible and generate a whole lotta ideas <br/>
