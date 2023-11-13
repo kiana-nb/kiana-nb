@@ -9,7 +9,8 @@
 
 🧡 Inquisitive by nature, I enjoy creating and designing. 
 
-🎡 The thrill of surfing for new and creative designs motivates me to broaden my knowledge and makes <br/>
+🎡 The thrill of surfing for new and creative designs motivates me to broaden my knowledge <br/>
+and makes <br/>
 me eager to learn. 
 Well, you could say my passion for knowledge and creativity drives me forward! 
 
