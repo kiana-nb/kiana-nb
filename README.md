@@ -8,7 +8,7 @@
 
 </div>
 
-<h3 align="left">A Passionate Frontend Developer</h3>
+<h3 align="left">A Passionate Developer</h3>
 <img align="right" alt="Coding" width="200" src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif">
 
 
