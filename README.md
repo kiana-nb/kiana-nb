@@ -1,8 +1,22 @@
 ![mario](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
 <h1 align="center">Hi 👋, I'm Kiana</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="left">A passionate frontend developer</h3>
 <img align="right" alt="Coding" width="200" src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif">
+
+<p>
+  I started my programming journey after entering university and since then I've discovered my fondness for programming and designing user interfaces. 〜(꒪꒳꒪)〜
+
+Inquisitive by nature, I enjoy creating and designing. ✨
+
+The thrill of surfing for new and creative designs motivates me to broaden my knowledge and makes me eager to learn. 🌱
+
+Well, you could say my passion for knowledge and creativity drives me forward! 
+
+So, basically, my goal is to collaborate with people as much as possible and generate a whole lotta ideas to make many great things possible. :D
+</p>
+
+
 
 - 🌱 I’m currently learning **React**
 
