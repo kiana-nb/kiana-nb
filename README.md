@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="200" src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif">
 
 <p>
-  I started my programming journey after entering university and since then I've discovered my fondness for programming and designing user interfaces. 〜(꒪꒳꒪)〜
+I started my programming journey after entering university and since then I've discovered my fondness for programming and designing user interfaces. 〜(꒪꒳꒪)〜
 
 Inquisitive by nature, I enjoy creating and designing. ✨
 
