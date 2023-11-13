@@ -21,7 +21,7 @@ Well, you could say my passion for knowledge and creativity drives me forward!
 
  🌱 I’m currently learning **React**
 
- 📫 How to reach me **kiana.nb43@gmail.com**
+ 📫 You can reach me by **kiana.nb43@gmail.com**
 
 <h2 align="left">Connect With Me!</h2>
 <p align="left">
