@@ -24,7 +24,7 @@ So, basically, my goal is to collaborate with people as much as possible and gen
 
 - 📫 How to reach me **kiana.nb43@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect With Me!</h2>
 <p align="left">
 <a href="https://linkedin.com/in/kiana-nabipour-a0431b217" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kiana-nabipour-a0431b217" height="30" width="40" /></a>
 </p>
