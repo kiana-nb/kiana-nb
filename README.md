@@ -9,7 +9,8 @@ I started my programming journey after entering university and since then I've d
 
 Inquisitive by nature, I enjoy creating and designing. ✨
 
-The thrill of surfing for new and creative designs motivates me to broaden my knowledge and makes me eager to learn. 🌱
+The thrill of surfing for new and creative designs motivates me to broaden my knowledge and makes
+me eager to learn. 🌱
 
 Well, you could say my passion for knowledge and creativity drives me forward! 
 
