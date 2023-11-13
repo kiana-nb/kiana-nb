@@ -42,7 +42,6 @@ to make many great things possible. :D
 &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kiana-nb&show_icons=true&locale=en&theme=radical" alt="kiana-nb" />
 </div>
 
-<br/>
 <div align="center">
 
 
@@ -51,4 +50,3 @@ to make many great things possible. :D
 
 </div>
 
-![footer](https://user-images.githubusercontent.com/10498744/210157572-1fca0242-8af2-46a6-bfa3-666ffd40ebde.svg)
