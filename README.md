@@ -1,6 +1,6 @@
 ![mario](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
-<h1 align="center">Hi ✨, I'm Kiana</h1>
+<h1 align="center">Hi ✨, I'm Kiana!</h1>
 <h3 align="left">A Passionate Frontend Developer</h3>
 <img align="right" alt="Coding" width="200" src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif">
 
