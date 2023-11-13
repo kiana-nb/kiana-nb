@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi ✨, I'm Kiana!</h1>
 
-<div align="right">
+<div align="center">
  
 ![octocat](https://user-images.githubusercontent.com/10498744/210113490-e2fad07f-4488-4da8-a656-b9abbdd8cb26.gif)
 
