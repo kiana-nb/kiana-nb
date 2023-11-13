@@ -7,7 +7,7 @@
 <p>
 🚀 I started my programming journey after entering university and since then I've discovered my fondness for programming and designing user interfaces. 〜(꒪꒳꒪)〜
 
-🧡 Inquisitive by nature, I enjoy creating and designing. ✨
+🧡 Inquisitive by nature, I enjoy creating and designing. 
 
 🎡 The thrill of surfing for new and creative designs motivates me to broaden my knowledge and makes <br/>
 me eager to learn. 
