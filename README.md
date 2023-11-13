@@ -20,9 +20,9 @@ So, basically, my goal is to collaborate with people as much as possible and gen
 
 
 
-- 🌱 I’m currently learning **React**
+ 🌱 I’m currently learning **React**
 
-- 📫 How to reach me **kiana.nb43@gmail.com**
+ 📫 How to reach me **kiana.nb43@gmail.com**
 
 <h2 align="left">Connect With Me!</h2>
 <p align="left">
