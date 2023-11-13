@@ -9,7 +9,8 @@
 </div>
 
 <h3 align="left">A Passionate Developer</h3>
-<img align="right" alt="Coding" width="200" src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif">
+
+<img align="right" alt="Coding" width="200" src="https://64.media.tumblr.com/7608bbbac5010ead62e76061d5adf826/26f56857bb40500a-e7/s500x750/2c135339c41661ee9f41c95ff7ca353baacfe2bd.gif">
 
 
 
