@@ -41,3 +41,7 @@ to make many great things possible. :D
 <div width="200">
 &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kiana-nb&show_icons=true&locale=en&theme=radical" alt="kiana-nb" />
 </div>
+
+<br/>
+
+![octocat](https://user-images.githubusercontent.com/10498744/210113490-e2fad07f-4488-4da8-a656-b9abbdd8cb26.gif)
