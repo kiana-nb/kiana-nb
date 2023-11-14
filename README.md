@@ -33,7 +33,7 @@ to make many great things possible. :D
 
 
 
- 🌱 I’m currently learning **React**
+ 🌱 I’m currently learning **React** and **UI/UX Design**
 
  📧 Reach me at **kiana.nb43@gmail.com**
 
