@@ -64,8 +64,6 @@ to make many great things possible. :D
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
-  <img width="5" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
