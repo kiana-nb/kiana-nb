@@ -88,7 +88,7 @@ to make many great things possible. :D
   <img width="5" />
   <img src="https://cdn.simpleicons.org/numpy/013243" height="40" alt="numpy logo"  />
   <img width="5" />
-  <img src="https://media.licdn.com/dms/image/D4D12AQGcGmAd9Cqraw/article-cover_image-shrink_600_2000/0/1688537312933?e=2147483647&v=beta&t=p7C9OMCJl8NmJdRyb_b-rfwK2iwgy87BfWPYVkHtyHQ" height="40" alt="mathplotlib logo"  />
+  <img src="https://seeklogo.com/images/M/matplotlib-logo-7676870AC0-seeklogo.com.png" height="40" alt="mathplotlib logo"  />
   <img width="5" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>  
     <img width="5" />
