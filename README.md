@@ -95,16 +95,17 @@ to make many great things possible. :D
   <img src="https://skillicons.dev/icons?i=tensorflow" height="40" alt="tensorflow logo"  />
 </div>
 
- 
-
 <br/>
+
 <h2 align="left">Stats</h2>
 <div style="display:flex;" >
 <div width="200">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kiana-nb&show_icons=true&locale=en&layout=compact&theme=radical" alt="kiana-nb"  height="150"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kiana-nb&show_icons=true&locale=en&layout=compact&theme=radical" alt="kiana-nb"  height="150" />
 </div>
 <div width="200">
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kiana-nb&show_icons=true&locale=en&theme=radical" alt="kiana-nb"  height="150" />
+  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kiana-nb&show_icons=true&locale=en&theme=radical" alt="kiana-nb"  height="150"/>
+</div>
+
 </div>
 
 
