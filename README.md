@@ -33,7 +33,7 @@ to make many great things possible. :D
 
 
 
- 🌱 I’m currently learning **React** and **UI/UX Design**
+ 🌱 I’m currently learning **React**
 
 
 
