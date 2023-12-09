@@ -4,7 +4,7 @@
 
 <div align="center">
 
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=5000&pause=3000&color=9046FF&center=true&width=435&lines=A+Passionate+Developer)]
+ ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=5000&pause=3000&color=9046FF&center=true&width=435&lines=A+Passionate+Developer)
 
 ![octocat](https://user-images.githubusercontent.com/10498744/210113490-e2fad07f-4488-4da8-a656-b9abbdd8cb26.gif)
 
