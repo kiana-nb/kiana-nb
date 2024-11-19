@@ -1,6 +1,8 @@
 ![mario](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
-![mario]([https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F363876844888903874%2F&psig=AOvVaw07q589X9dG_ox0rd8oV6-P&ust=1732133048611000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKikvM6Y6YkDFQAAAAAdAAAAABAK))
+![https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif](https://i.pinimg.com/originals/7a/e3/c7/7ae3c7ad104a968dc735871c0bf17608.gif)
+
+
 
 
 <h1 align="center">Hi ✨, I'm Kiana!</h1>
