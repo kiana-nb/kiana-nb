@@ -71,10 +71,15 @@ to make many great things possible. :D
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
- <img width="5" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
+  <img width="5" />
+  <img width="5" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
 </div>
 
