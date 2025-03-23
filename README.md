@@ -95,7 +95,7 @@ to make many great things possible. :D
   <img width="5" />
   <img src="https://cdn.simpleicons.org/numpy/013243" height="40" alt="numpy logo"  />
   <img width="5" />
-  <img src="[https://seeklogo.com/images/M/matplotlib-logo-7676870AC0-seeklogo.com.png](https://media.licdn.com/dms/image/v2/D4D12AQGcGmAd9Cqraw/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1688537312933?e=2147483647&v=beta&t=wX-LJQHtaxGcj6u08PgQ2t7l-GL29RoQcE2HknWph-c)" height="40" alt="mathplotlib logo"  />
+  <img src="https://c0.klipartz.com/pngpicture/215/492/sticker-png-matplotlib-python-computer-software-introduction-to-algorithms-angle-symmetry-plot-computer-software-python-package-index-thumbnail.png" height="40" alt="mathplotlib logo"  />
   <img width="5" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>  
     <img width="5" />
