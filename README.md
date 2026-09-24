@@ -114,5 +114,5 @@
 
 <h2 align="left">Stats</h2>
 <div align="left">
-  <img src="https://streak-stats.demolab.com?user=kiana-nb&theme=shades-of-purple&hide_border=false" height="150" alt="github streak stats" />
+  <img src="https://streak-stats.demolab.com?user=kiana-nb&theme=shades-of-purple&hide_border=false&disable_animations=true" height="150" alt="github streak stats" />
 </div>
