@@ -78,7 +78,7 @@
 <div align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,nestjs,mongodb,redis,docker,git,githubactions&perline=10" height="40" alt="backend skills" />
   <img width="5" />
-  <img src="https://cdn.simpleicons.org/socketdotio/010101" height="40" alt="socket.io logo" />
+  <img src="https://cdn.simpleicons.org/socketdotio/010101/white" height="40" alt="socket.io logo" />
 </div>
 
  <br/>
@@ -87,9 +87,9 @@
 <div align="left">
   <img src="https://cdn.simpleicons.org/claude/D97757" height="40" alt="claude logo" />
   <img width="5" />
-  <img src="https://cdn.simpleicons.org/anthropic/191919" height="40" alt="anthropic logo" />
+  <img src="https://cdn.simpleicons.org/anthropic/191919/F0EEE6" height="40" alt="anthropic logo" />
   <img width="5" />
-  <img src="https://cdn.simpleicons.org/langchain/1C3C3C" height="40" alt="langchain logo" />
+  <img src="https://cdn.simpleicons.org/langchain/1C3C3C/white" height="40" alt="langchain logo" />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo" />
 </div>
@@ -101,9 +101,9 @@
  <div align="left">
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
   <img width="5" />
-  <img src="https://cdn.simpleicons.org/pandas/150458" height="40" alt="pandas logo"  />
+  <img src="https://cdn.simpleicons.org/pandas/150458/E70488" height="40" alt="pandas logo"  />
   <img width="5" />
-  <img src="https://cdn.simpleicons.org/numpy/013243" height="40" alt="numpy logo"  />
+  <img src="https://cdn.simpleicons.org/numpy/013243/4DABCF" height="40" alt="numpy logo"  />
   <img width="5" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
   <img width="5" />
