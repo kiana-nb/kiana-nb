@@ -4,7 +4,7 @@
 
 <div align="center">
 
- ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=4000&pause=2000&color=9046FF&center=true&vCenter=true&width=640&lines=Frontend+Developer+%2F+AI+Product+Engineer;From+idea+to+production%2C+end+to+end;React+%C2%B7+Next.js+%C2%B7+TypeScript+%C2%B7+Three.js)
+ ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=4000&pause=2000&color=9046FF&center=true&vCenter=true&width=760&lines=Frontend+Developer+%2F+AI+Product+Engineer;From+idea+to+production%2C+end+to+end;React+%C2%B7+Next.js+%C2%B7+TypeScript+%C2%B7+Three.js)
 
 ![octocat](https://user-images.githubusercontent.com/10498744/210113490-e2fad07f-4488-4da8-a656-b9abbdd8cb26.gif)
 
